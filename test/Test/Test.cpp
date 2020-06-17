@@ -43,10 +43,10 @@ using namespace std;
 // 1. 选择使用 #题库中的题，根据编号加载，使用 Define_IdName.h 中定义的宏#
 // example: 
 // SOLUTION_CPP_FOLDER_NAME_ID_1 ==> SOLUTION_CPP_FOLDER_NAME_ID_2
-#define SOLUTION_ID						SOLUTION_CPP_LEETCODE_747
+#define SOLUTION_ID						SOLUTION_CPP_LEETCODE_66
 
 #define ADD_QUOTES(A)					#A
-#define SOLUTION_CPP_PATH(_name)		ADD_QUOTES(../../leetcode_problemset/##_name/SOLUTION.cpp)
+#define SOLUTION_CPP_PATH(_name)		ADD_QUOTES(../../problemset_leetcode/##_name/SOLUTION.cpp)
 #define SOLUTION_CPP_ID_TO_PATH(_name)	SOLUTION_CPP_PATH(_name)
 #define SOLUTION_CPP_FULL_PATH			SOLUTION_CPP_ID_TO_PATH(SOLUTION_ID)
 

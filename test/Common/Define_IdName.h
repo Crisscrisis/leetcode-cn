@@ -631,3 +631,4 @@
 
 #define SOLUTION_CPP_LEETCODE_724 724_find_pivot_index
 #define SOLUTION_CPP_LEETCODE_747 747_largest_number_at_least_twice_of_others
+#define SOLUTION_CPP_LEETCODE_66  66_plus_one
