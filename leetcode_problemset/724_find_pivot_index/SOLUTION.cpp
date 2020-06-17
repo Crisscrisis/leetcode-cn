@@ -1,4 +1,8 @@
-
+/* leetcode 724
+ *
+ *
+ *
+ */
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
@@ -22,22 +26,24 @@ public:
 };
 
 
-//////////////////////////////////////////////////////////////////////////
+/**************************   run solution   **************************/
 int _solution_run(vector<int>& matrix)
 {
     Solution leetcode724;
     return leetcode724.pivotIndex(matrix);
 }
 
-//#define USE_SOLUTION_CUSTOM
-//vector<vector<int>> _solution_custom(TestCases &tc)
-//{
-//}
+#ifdef USE_SOLUTION_CUSTOM
+vector<vector<int>> _solution_custom(TestCases &tc)
+{
+    return {};
+}
+#endif
 
-//////////////////////////////////////////////////////////////////////////
-//#define USE_GET_TEST_CASES_IN_CPP
-//vector<string> _get_test_cases_string()
-//{
-//	return {};
-//}
-
+/**************************   get testcase   **************************/
+#ifdef USE_GET_TEST_CASES_IN_CPP
+vector<string> _get_test_cases_string()
+{
+	return {};
+}
+#endif

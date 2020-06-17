@@ -629,4 +629,5 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_15 	you-le-yuan-de-mi-gong
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_16 	you-le-yuan-de-you-lan-ji-hua
 
-#define SOLUTION_CPP_LEETCOD_ID_724 724_find_pivot_index
+#define SOLUTION_CPP_LEETCODE_724 724_find_pivot_index
+#define SOLUTION_CPP_LEETCODE_747 747_largest_number_at_least_twice_of_others
