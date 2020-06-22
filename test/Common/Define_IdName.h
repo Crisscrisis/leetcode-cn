@@ -633,3 +633,4 @@
 #define SOLUTION_CPP_LEETCODE_747           747_largest_number_at_least_twice_of_others
 #define SOLUTION_CPP_LEETCODE_66            66_plus_one
 #define SOLUTION_CPP_LEETCODE_498           498_diagonal_traverse
+#define SOLUTION_CPP_LEETCODE_54            54_spiral_matrix
