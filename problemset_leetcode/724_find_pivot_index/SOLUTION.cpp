@@ -29,8 +29,8 @@ public:
 /**************************   run solution   **************************/
 int _solution_run(vector<int>& matrix)
 {
-    Solution leetcode724;
-    return leetcode724.pivotIndex(matrix);
+    Solution leetcode_724;
+    return leetcode_724.pivotIndex(matrix);
 }
 
 #ifdef USE_SOLUTION_CUSTOM

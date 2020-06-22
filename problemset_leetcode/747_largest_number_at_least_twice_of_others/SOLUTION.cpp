@@ -37,8 +37,8 @@ public:
 /**************************   run solution   **************************/
 int _solution_run(vector<int>& matrix)
 {
-    Solution leetcode747;
-    return leetcode747.dominantIndex(matrix);
+    Solution leetcode_747;
+    return leetcode_747.dominantIndex(matrix);
 }
 
 #ifdef USE_SOLUTION_CUSTOM

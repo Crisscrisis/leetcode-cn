@@ -23,8 +23,8 @@ public:
 /**************************   run solution   **************************/
 vector<int> _solution_run(vector<int>& matrix)
 {
-    Solution leetcode66;
-    return leetcode66.plusOne(matrix);
+    Solution leetcode_66;
+    return leetcode_66.plusOne(matrix);
 }
 
 #ifdef USE_SOLUTION_CUSTOM
