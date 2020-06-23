@@ -638,3 +638,4 @@
 #define SOLUTION_CPP_LEETCODE_67            67_add_binary
 #define SOLUTION_CPP_LEETCODE_28            28_implement_strstr
 #define SOLUTION_CPP_LEETCODE_14            14_longest_common_prefix
+#define SOLUTION_CPP_LEETCODE_344           344_reverse_string
