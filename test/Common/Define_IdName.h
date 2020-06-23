@@ -639,3 +639,4 @@
 #define SOLUTION_CPP_LEETCODE_28            28_implement_strstr
 #define SOLUTION_CPP_LEETCODE_14            14_longest_common_prefix
 #define SOLUTION_CPP_LEETCODE_344           344_reverse_string
+#define SOLUTION_CPP_LEETCODE_561           561_array_partition_1
