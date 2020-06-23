@@ -637,3 +637,4 @@
 #define SOLUTION_CPP_LEETCODE_118           118_pascals_triangle
 #define SOLUTION_CPP_LEETCODE_67            67_add_binary
 #define SOLUTION_CPP_LEETCODE_28            28_implement_strstr
+#define SOLUTION_CPP_LEETCODE_14            14_longest_common_prefix
