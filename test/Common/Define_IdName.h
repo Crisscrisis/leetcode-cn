@@ -641,3 +641,4 @@
 #define SOLUTION_CPP_LEETCODE_344           344_reverse_string
 #define SOLUTION_CPP_LEETCODE_561           561_array_partition_1
 #define SOLUTION_CPP_LEETCODE_167           167_two_Sum_2_input_array_is_sorted
+#define SOLUTION_CPP_LEETCODE_27            27_remove_element
