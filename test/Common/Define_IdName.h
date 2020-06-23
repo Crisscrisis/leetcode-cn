@@ -648,3 +648,4 @@
 #define SOLUTION_CPP_LEETCODE_119           119_pascals_triangle_2
 #define SOLUTION_CPP_LEETCODE_151           151_reverse_words_in_a_string
 #define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
+#define SOLUTION_CPP_LEETCODE_26            26_remove_duplicates_from_sorted_array
