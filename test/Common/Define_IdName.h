@@ -646,3 +646,4 @@
 #define SOLUTION_CPP_LEETCODE_209           209_minimum_size_subarray_sum
 #define SOLUTION_CPP_LEETCODE_189           189_rotate_array
 #define SOLUTION_CPP_LEETCODE_119           119_pascals_triangle_2
+#define SOLUTION_CPP_LEETCODE_151           151_reverse_words_in_a_string
