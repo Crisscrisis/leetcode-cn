@@ -11,6 +11,8 @@
 * leetcode 561
 * leetcode 167
 * leetcode 27
+* leetcode 485
+* leetcode 209
 ## 20200622
 * leetcode 54 
 * leetcode 498

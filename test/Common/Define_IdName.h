@@ -643,3 +643,4 @@
 #define SOLUTION_CPP_LEETCODE_167           167_two_Sum_2_input_array_is_sorted
 #define SOLUTION_CPP_LEETCODE_27            27_remove_element
 #define SOLUTION_CPP_LEETCODE_485           485_max_consecutive_ones
+#define SOLUTION_CPP_LEETCODE_209           209_minimum_size_subarray_sum
