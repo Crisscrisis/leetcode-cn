@@ -1,6 +1,51 @@
 # Update
 [返回](./README.md)
 
+
+---
+## 20200628
+* 5451.max-value-of-equation 满足不等式的最大值
+
+* 5450.number-of-subsequences-that-satisfy-the-given-sum-condition 满足条件的子序列数目
+
+* 5449.check-if-array-pairs-are-divisible-by-k 检查数组对是否可以被 k 整除
+
+* 5448.path-crossing 判断路径是否相交
+
+* 5448.path-crossing 判断路径是否相交
+
+* 5435.parallel-courses-ii 并行课程 II
+
+* 5434.longest-subarray-of-1s-after-deleting-one-element 删掉一个元素以后全为 1 的最长子数组
+
+* 5433.the-kth-factor-of-n n 的第 k 个因子
+
+* 5432.average-salary-excluding-the-minimum-and-maximum-salary 去掉最低工资和最高工资后的工资平均值
+
+
+---
+## 20200626
+* 946.validate-stack-sequences 验证栈序列
+
+
+---
+## 20200621
+* 1489.find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree 找到最小生成树里的关键边和伪关键边
+
+* 1488.avoid-flood-in-the-city 避免洪水泛滥
+
+* 1487.making-file-names-unique 保证文件名唯一
+
+* 1486.xor-operation-in-an-array 数组异或操作
+
+
+---
+## 20200619
+* 1014.best-sightseeing-pair 最佳观光组合
+
+* 1028.recover-a-tree-from-preorder-traversal 从先序遍历还原二叉树
+
+
 ---
 ## 20200623
 * leetcode 118 
@@ -40,21 +85,21 @@
 
 # 以下均为原作者的update
 ## 20200614
-* 5188.kth-ancestor-of-a-tree-node 树节点的第 K 个祖先
+* 1483.kth-ancestor-of-a-tree-node 树节点的第 K 个祖先
 
-* 5438.minimum-number-of-days-to-make-m-bouquets 制作 m 束花所需的最少天数
+* 1482.minimum-number-of-days-to-make-m-bouquets 制作 m 束花所需的最少天数
 
-* 5437.least-number-of-unique-integers-after-k-removals 不同整数的最少数目
+* 1481.least-number-of-unique-integers-after-k-removals 不同整数的最少数目
 
-* 5436.running-sum-of-1d-array 一维数组的动态和
+* 1480.running-sum-of-1d-array 一维数组的动态和
 
-* 5421.allocate-mailboxes 安排邮筒
+* 1478.allocate-mailboxes 安排邮筒
 
-* 5423.find-two-non-overlapping-sub-arrays-each-with-target-sum 找两个和为目标值且不重叠的子数组
+* 1477.find-two-non-overlapping-sub-arrays-each-with-target-sum 找两个和为目标值且不重叠的子数组
 
-* 5422.subrectangle-queries 子矩形查询
+* 1476.subrectangle-queries 子矩形查询
 
-* 5420.final-prices-with-a-special-discount-in-a-shop 商品折扣后的最终价格
+* 1475.final-prices-with-a-special-discount-in-a-shop 商品折扣后的最终价格
 
 ---
 ## 20200613
@@ -66,13 +111,13 @@
 
 ---
 ## 20200607
-* 5431.paint-house-iii 给房子涂色 III
+* 1473.paint-house-iii 给房子涂色 III
 
-* 5430.design-browser-history 设计浏览器历史记录
+* 1472.design-browser-history 设计浏览器历史记录
 
-* 5429.the-k-strongest-values-in-an-array 数组中的 k 个最强值
+* 1471.the-k-strongest-values-in-an-array 数组中的 k 个最强值
 
-* 5428.shuffle-the-array 重新排列数组
+* 1470.shuffle-the-array 重新排列数组
 
 ---
 ## 20200605
@@ -84,21 +129,21 @@
 
 ---
 ## 20200531
-* 5427.probability-of-a-two-boxes-having-the-same-number-of-distinct-balls 两个盒子中球的颜色数相同的概率
+* 1467.probability-of-a-two-boxes-having-the-same-number-of-distinct-balls 两个盒子中球的颜色数相同的概率
 
-* 5426.reorder-routes-to-make-all-paths-lead-to-the-city-zero 重新规划路线
+* 1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero 重新规划路线
 
-* 5425.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts 切割后面积最大的蛋糕
+* 1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts 切割后面积最大的蛋糕
 
-* 5424.maximum-product-of-two-elements-in-an-array 数组中两元素的最大乘积
+* 1464.maximum-product-of-two-elements-in-an-array 数组中两元素的最大乘积
 
-* 5411.cherry-pickup-ii 摘樱桃 II
+* 1463.cherry-pickup-ii 摘樱桃 II
 
-* 5410.course-schedule-iv 课程安排 IV
+* 1462.course-schedule-iv 课程安排 IV
 
-* 5409.check-if-a-string-contains-all-binary-codes-of-size-k 检查一个字符串是否包含所有长度为 K 的二进制子串
+* 1461.check-if-a-string-contains-all-binary-codes-of-size-k 检查一个字符串是否包含所有长度为 K 的二进制子串
 
-* 5408.make-two-arrays-equal-by-reversing-sub-arrays 通过翻转子数组使两个数组相等
+* 1460.make-two-arrays-equal-by-reversing-sub-arrays 通过翻转子数组使两个数组相等
 
 ---
 ## 20200527
@@ -108,13 +153,13 @@
 
 ---
 ## 20200524
-* 5419.max-dot-product-of-two-subsequences 两个子序列的最大点积
+* 1458.max-dot-product-of-two-subsequences 两个子序列的最大点积
 
-* 5418.pseudo-palindromic-paths-in-a-binary-tree 二叉树中的伪回文路径
+* 1457.pseudo-palindromic-paths-in-a-binary-tree 二叉树中的伪回文路径
 
-* 5417.maximum-number-of-vowels-in-a-substring-of-given-length 定长子串中元音的最大数目
+* 1456.maximum-number-of-vowels-in-a-substring-of-given-length 定长子串中元音的最大数目
 
-* 5416.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence 检查单词是否为句中其他单词的前缀
+* 1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence 检查单词是否为句中其他单词的前缀
 
 ---
 ## 20200519
