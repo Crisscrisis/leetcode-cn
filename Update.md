@@ -47,43 +47,6 @@
 
 
 ---
-## 20200623
-* leetcode 118 
-* leetcode 67
-* leetcode 28
-* leetcode 14
-* leetcode 344
-* leetcode 561
-* leetcode 167
-* leetcode 27
-* leetcode 485
-* leetcode 209
-* leetcode 189
-* leetcode 119
-* leetcode 151
-* leetcode 557
-* leetcode 26
-* leetcode 283
-## 20200622
-* leetcode 54 
-* leetcode 498
-## 20200617
-* leetcode 66 
-* leetcode 747
-## 20200616
-* leetcode 724 
-
-
-
-
-
-
-
-
-
-
-
-# 以下均为原作者的update
 ## 20200614
 * 1483.kth-ancestor-of-a-tree-node 树节点的第 K 个祖先
 
@@ -862,7 +825,7 @@
 * 1307.verbal-arithmetic-puzzle 口算难题
 
 * 1306.jump-game-iii 跳跃游戏 III
-  
+
 * 1305.all-elements-in-two-binary-search-trees 两棵二叉搜索树中的所有元素
 
 * 1304.find-n-unique-integers-sum-up-to-zero 和为零的N个唯一整数
@@ -1709,89 +1672,89 @@
 
 ---
 ## 20190511
-* 28.StrStr 实现strStr() 
+* 28.StrStr 实现strStr()
 
 * 38.CountAndSay 报数
 
 ---
 ## 20190510
-* 8.MyAtoi 字符串转换整数 (atoi)  
+* 8.MyAtoi 字符串转换整数 (atoi)
 
 ---
 ## 20190506
-* 125.IsPalindrome 验证回文串  
+* 125.IsPalindrome 验证回文串
 
-* 242.IsAnagram 有效的字母异位词  
+* 242.IsAnagram 有效的字母异位词
 
 ---
 ## 20190505
-* 387.FirstUniqChar 字符串中的第一个唯一字符  
+* 387.FirstUniqChar 字符串中的第一个唯一字符
 
 ---
 ## 20190503
-* 7.Reverse 整数反转  
+* 7.Reverse 整数反转
 
 ---
 ## 20190429
 * 141.linked-list-cycle 环形链表
 
-* 278.FirstBadVersion 第一个错误的版本  
+* 278.FirstBadVersion 第一个错误的版本
 
 ---
 ## 20190428
-* 234.IsPalindrome 回文链表  
+* 234.IsPalindrome 回文链表
 
 ---
 ## 20190426
-* 19.RemoveNthFromEnd 删除链表的倒数第N个节点  
+* 19.RemoveNthFromEnd 删除链表的倒数第N个节点
 
-* 21.MergeTwoLists 合并两个有序链表  
+* 21.MergeTwoLists 合并两个有序链表
 
-* 237.DeleteNode 删除链表中的节点  
+* 237.DeleteNode 删除链表中的节点
 
-* 344.ReverseString 反转字符串  
+* 344.ReverseString 反转字符串
 
 ---
 ## 20190425
 * 1.two-sum 两数之和
 
-* 36.IsValidSudoku 有效的数独  
+* 36.IsValidSudoku 有效的数独
 
-* 48.Rotate 旋转图像  
+* 48.Rotate 旋转图像
 
-* 66.PlusOne 加一  
+* 66.PlusOne 加一
 
-* 283.MoveZeroes 移动零  
+* 283.MoveZeroes 移动零
 
-* 350.Intersect 两个数组的交集 II  
+* 350.Intersect 两个数组的交集 II
 
 ---
 ## 20190424
-* 189.Rotate 旋转数组  
+* 189.Rotate 旋转数组
 
-* 217.ContainsDuplicate 存在重复元素  
+* 217.ContainsDuplicate 存在重复元素
 
 ---
 ## 20190423
-* 122.MaxProfit 买卖股票的最佳时机 II  
+* 122.MaxProfit 买卖股票的最佳时机 II
 
-* 50.MyPow  
+* 50.MyPow
 
-* 88.Merge 合并两个有序数组  
+* 88.Merge 合并两个有序数组
 
 ---
 ## 20190422
-* 14.LongestCommonPrefix 最长公共前缀  
+* 14.LongestCommonPrefix 最长公共前缀
 
-* 26.RemoveDuplicates 删除排序数组中的重复项  
+* 26.RemoveDuplicates 删除排序数组中的重复项
 
-* 136.SingleNumber 只出现一次的数字  
+* 136.SingleNumber 只出现一次的数字
 
-* 169.MajorityElement 求众数  
+* 169.MajorityElement 求众数
 
-* 206.ReverseList 反转链表  
+* 206.ReverseList 反转链表
 
-* 240.SearchMatrix 搜索二维矩阵 II 
+* 240.SearchMatrix 搜索二维矩阵 II
 
 ---
 ## 20190419
