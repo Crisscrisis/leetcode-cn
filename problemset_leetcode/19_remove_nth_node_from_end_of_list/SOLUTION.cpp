@@ -40,25 +40,28 @@ public:
 
 
 /**************************   run solution   **************************/
-bool _solution_run(ListNode *head)
+ListNode* _solution_run(ListNode *head, int n)
 {
-    return false;
+    Solution leetcode_19;
+    ListNode *ans = leetcode_19.removeNthFromEnd(head, n);
+    return ans;
 }
 
-#define USE_SOLUTION_CUSTOM
+#ifdef USE_SOLUTION_CUSTOM
 string _solution_custom(TestCases &tc)
 {
     string list = tc.get<string>();
-    int index = tc.get<int>();
+    int n = tc.get<int>();
     ListNode *head = StringToListNode(list);
     Solution leetcode_19;
-    ListNode *ans = leetcode_19.removeNthFromEnd(head, index);
+    ListNode *ans = leetcode_19.removeNthFromEnd(head, n);
     if (ans == nullptr) {
         return "null";
     } else {
         return ListNodeToString(ans);
     }
 }
+#endif
 
 /**************************   get testcase   **************************/
 #ifdef USE_GET_TEST_CASES_IN_CPP
