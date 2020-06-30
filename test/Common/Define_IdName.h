@@ -672,3 +672,4 @@
 #define SOLUTION_CPP_LEETCODE_141           141_linked_list_cycle
 #define SOLUTION_CPP_LEETCODE_142           142_linked_list_cycle_2
 #define SOLUTION_CPP_LEETCODE_160           160_intersection_of_two_linked_lists
+#define SOLUTION_CPP_LEETCODE_19           19_remove_nth_node_from_end_of_list

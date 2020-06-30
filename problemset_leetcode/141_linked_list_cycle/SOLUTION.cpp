@@ -12,8 +12,6 @@
  * };
  */
 
-#include "..\..\test\Common\ListNode.h"
-
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
