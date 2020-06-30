@@ -644,6 +644,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_15 	you-le-yuan-de-mi-gong
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_16 	you-le-yuan-de-you-lan-ji-hua
 
+// string && array
 #define SOLUTION_CPP_LEETCODE_724           724_find_pivot_index
 #define SOLUTION_CPP_LEETCODE_747           747_largest_number_at_least_twice_of_others
 #define SOLUTION_CPP_LEETCODE_66            66_plus_one
@@ -665,3 +666,6 @@
 #define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
 #define SOLUTION_CPP_LEETCODE_26            26_remove_duplicates_from_sorted_array
 #define SOLUTION_CPP_LEETCODE_283           283_move_zeros
+
+// linked list
+#define SOLUTION_CPP_LEETCODE_707           707_design_linked_list

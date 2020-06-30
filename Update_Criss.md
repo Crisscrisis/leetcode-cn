@@ -1,3 +1,5 @@
+## 20200630
+* leetcode 707
 ## 20200623
 * leetcode 118
 * leetcode 67
