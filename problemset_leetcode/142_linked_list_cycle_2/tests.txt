@@ -1,0 +1,9 @@
+[3, 2, 0, -4]
+1
+tail connnects to node index 1
+[1, 2]
+0
+tail connnects to node index 0
+[1]
+-1
+no cycle

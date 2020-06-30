@@ -670,3 +670,4 @@
 // linked list
 #define SOLUTION_CPP_LEETCODE_707           707_design_linked_list
 #define SOLUTION_CPP_LEETCODE_141           141_linked_list_cycle
+#define SOLUTION_CPP_LEETCODE_142           142_linked_list_cycle_2
