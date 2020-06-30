@@ -1,4 +1,5 @@
 ## 20200630
+* leetcode 141
 * leetcode 707
 ## 20200623
 * leetcode 118
