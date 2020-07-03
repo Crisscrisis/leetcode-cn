@@ -666,6 +666,7 @@
 #define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
 #define SOLUTION_CPP_LEETCODE_26            26_remove_duplicates_from_sorted_array
 #define SOLUTION_CPP_LEETCODE_283           283_move_zeros
+#define SOLUTION_CPP_LEETCODE_4             4_median_of_two_sorted_arrays
 
 // linked list
 #define SOLUTION_CPP_LEETCODE_707           707_design_linked_list
