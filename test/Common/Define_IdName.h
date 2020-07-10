@@ -330,6 +330,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_706 	design-hashmap
 #define SOLUTION_CPP_FOLDER_NAME_ID_707 	design-linked-list
 #define SOLUTION_CPP_FOLDER_NAME_ID_714 	best-time-to-buy-and-sell-stock-with-transaction-fee
+#define SOLUTION_CPP_FOLDER_NAME_ID_718 	maximum-length-of-repeated-subarray
 #define SOLUTION_CPP_FOLDER_NAME_ID_719 	find-k-th-smallest-pair-distance
 #define SOLUTION_CPP_FOLDER_NAME_ID_724 	find-pivot-index
 #define SOLUTION_CPP_FOLDER_NAME_ID_733 	flood-fill
@@ -619,6 +620,10 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_5449 	check-if-array-pairs-are-divisible-by-k
 #define SOLUTION_CPP_FOLDER_NAME_ID_5450 	number-of-subsequences-that-satisfy-the-given-sum-condition
 #define SOLUTION_CPP_FOLDER_NAME_ID_5451 	max-value-of-equation
+#define SOLUTION_CPP_FOLDER_NAME_ID_5452 	can-make-arithmetic-progression-from-sequence
+#define SOLUTION_CPP_FOLDER_NAME_ID_5453 	last-moment-before-all-ants-fall-out-of-a-plank
+#define SOLUTION_CPP_FOLDER_NAME_ID_5454 	count-submatrices-with-all-ones
+#define SOLUTION_CPP_FOLDER_NAME_ID_5455 	minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits
 #define SOLUTION_CPP_FOLDER_NAME_ID_100263 	happy-new-year-2020-bomb
 #define SOLUTION_CPP_FOLDER_NAME_ID_100264 	how-many-apples-lc
 #define SOLUTION_CPP_FOLDER_NAME_ID_100265 	qqqqqqqqqqqqqqqys-warm-up-question
