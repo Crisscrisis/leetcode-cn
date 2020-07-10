@@ -1,4 +1,5 @@
 ## 20200710
+* leetcode 42
 * leetcode 15
 * leetcode 296
 * leetcode 4
