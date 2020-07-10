@@ -675,3 +675,6 @@
 #define SOLUTION_CPP_LEETCODE_160           160_intersection_of_two_linked_lists
 #define SOLUTION_CPP_LEETCODE_19            19_remove_nth_node_from_end_of_list
 #define SOLUTION_CPP_LEETCODE_206           206_reverse_linked_list
+
+// bfs
+#define SOLUTION_CPP_LEETCODE_296           296_best_meeting_point
