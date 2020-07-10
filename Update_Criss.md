@@ -1,3 +1,7 @@
+## 20200710
+* leetcode 15
+* leetcode 296
+* leetcode 4
 ## 20200630
 * leetcode 206
 * leetcode 19
