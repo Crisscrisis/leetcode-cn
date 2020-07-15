@@ -98,7 +98,10 @@ inline std::string convert(const std::string& input)
 
     // Sample:
     // "ABC" ==> ABC
-    if (output.size() != 1 && output[0] == '\"' && output.back() == '\"')
+    if (output.size() != 1 && output[0] == '/')
+    {
+        output = {};
+    } else if (output.size() != 1 && output[0] == '\"' && output.back() == '\"')
     {
         output = output.substr(1, output.size() - 2);
     }
@@ -204,10 +207,10 @@ inline std::vector<ListNode*> convert(const std::string& input)
 }
 
 //////////////////////////////////////////////////////////////////////////
-// convert    xxx ==> std::string 
+// convert    xxx ==> std::string
 //////////////////////////////////////////////////////////////////////////
 
-// bool to std::string 
+// bool to std::string
 template<>
 inline std::string convert(const bool& input)
 {
@@ -215,7 +218,7 @@ inline std::string convert(const bool& input)
 }
 
 //////////////////////////////////////////////////////////////////////////
-// convert    vector ==> std::string 
+// convert    vector ==> std::string
 //////////////////////////////////////////////////////////////////////////
 
 // bool to std::string
