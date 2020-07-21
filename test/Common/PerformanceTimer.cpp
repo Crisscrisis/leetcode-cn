@@ -14,7 +14,7 @@ LARGE_INTEGER nEndTime;
 
 void PerformanceTimer::init()
 {
-	QueryPerformanceFrequency(&nFreq);
+    QueryPerformanceFrequency(&nFreq);
 }
 
 void PerformanceTimer::start()
@@ -28,8 +28,8 @@ void PerformanceTimer::start()
 
 void PerformanceTimer::stop()
 {
-	QueryPerformanceCounter(&nEndTime);
-	ntime = (double)(nEndTime.QuadPart - nBeginTime.QuadPart) / (double)nFreq.QuadPart;
+    QueryPerformanceCounter(&nEndTime);
+    ntime = (double)(nEndTime.QuadPart - nBeginTime.QuadPart) / (double)nFreq.QuadPart;
 }
 
 void PerformanceTimer::end()

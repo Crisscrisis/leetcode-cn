@@ -3,6 +3,53 @@
 
 
 ---
+## 20200719
+* 5467.find-a-value-of-a-mysterious-function-closest-to-target 找到最接近目标值的函数值
+
+* 5466.maximum-number-of-non-overlapping-substrings 最多的不重叠子字符串
+
+* 5465.number-of-nodes-in-the-sub-tree-with-the-same-label 子树中标签相同的节点数
+
+* 5464.water-bottles 换酒问题
+
+
+---
+## 20200717
+* 174.dungeon-game 地下城游戏
+
+
+---
+## 20200712
+* 174.dungeon-game 地下城游戏
+
+* 5211.path-with-maximum-probability 概率最大的路径
+
+* 5447.stone-game-iv 石子游戏 IV
+
+* 5447.stone-game-iv 石子游戏 IV
+
+* 5446.minimum-difference-between-largest-and-smallest-value-in-three-moves 三次操作后最大值与最小值的最小差
+
+* 5463.best-position-for-a-service-centre 服务中心的最佳位置
+
+* 5211.path-with-maximum-probability 概率最大的路径
+
+* 5461.number-of-substrings-with-only-1s 仅含 1 的子串数
+
+* 5461.number-of-substrings-with-only-1s 仅含 1 的子串数
+
+* 5460.number-of-good-pairs 好数对的数目
+
+* 5447.stone-game-iv 石子游戏 IV
+
+* 5446.minimum-difference-between-largest-and-smallest-value-in-three-moves 三次操作后最大值与最小值的最小差
+
+* 5445.range-sum-of-sorted-subarray-sums 子数组和排序后的区间和
+
+* 5177.reformat-date 转变日期格式
+
+
+---
 ## 20200705
 * 5455.minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits 最多 K 次交换相邻数位后得到的最小整数
 

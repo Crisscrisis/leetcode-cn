@@ -150,6 +150,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_171 	excel-sheet-column-number
 #define SOLUTION_CPP_FOLDER_NAME_ID_172 	factorial-trailing-zeroes
 #define SOLUTION_CPP_FOLDER_NAME_ID_173 	binary-search-tree-iterator
+#define SOLUTION_CPP_FOLDER_NAME_ID_174 	dungeon-game
 #define SOLUTION_CPP_FOLDER_NAME_ID_179 	largest-number
 #define SOLUTION_CPP_FOLDER_NAME_ID_188 	best-time-to-buy-and-sell-stock-iv
 #define SOLUTION_CPP_FOLDER_NAME_ID_189 	rotate-array
@@ -612,10 +613,15 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_1487 	making-file-names-unique
 #define SOLUTION_CPP_FOLDER_NAME_ID_1488 	avoid-flood-in-the-city
 #define SOLUTION_CPP_FOLDER_NAME_ID_1489 	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
+#define SOLUTION_CPP_FOLDER_NAME_ID_5177 	reformat-date
+#define SOLUTION_CPP_FOLDER_NAME_ID_5211 	path-with-maximum-probability
 #define SOLUTION_CPP_FOLDER_NAME_ID_5432 	average-salary-excluding-the-minimum-and-maximum-salary
 #define SOLUTION_CPP_FOLDER_NAME_ID_5433 	the-kth-factor-of-n
 #define SOLUTION_CPP_FOLDER_NAME_ID_5434 	longest-subarray-of-1s-after-deleting-one-element
 #define SOLUTION_CPP_FOLDER_NAME_ID_5435 	parallel-courses-ii
+#define SOLUTION_CPP_FOLDER_NAME_ID_5445 	range-sum-of-sorted-subarray-sums
+#define SOLUTION_CPP_FOLDER_NAME_ID_5446 	minimum-difference-between-largest-and-smallest-value-in-three-moves
+#define SOLUTION_CPP_FOLDER_NAME_ID_5447 	stone-game-iv
 #define SOLUTION_CPP_FOLDER_NAME_ID_5448 	path-crossing
 #define SOLUTION_CPP_FOLDER_NAME_ID_5449 	check-if-array-pairs-are-divisible-by-k
 #define SOLUTION_CPP_FOLDER_NAME_ID_5450 	number-of-subsequences-that-satisfy-the-given-sum-condition
@@ -624,6 +630,13 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_5453 	last-moment-before-all-ants-fall-out-of-a-plank
 #define SOLUTION_CPP_FOLDER_NAME_ID_5454 	count-submatrices-with-all-ones
 #define SOLUTION_CPP_FOLDER_NAME_ID_5455 	minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits
+#define SOLUTION_CPP_FOLDER_NAME_ID_5460 	number-of-good-pairs
+#define SOLUTION_CPP_FOLDER_NAME_ID_5461 	number-of-substrings-with-only-1s
+#define SOLUTION_CPP_FOLDER_NAME_ID_5463 	best-position-for-a-service-centre
+#define SOLUTION_CPP_FOLDER_NAME_ID_5464 	water-bottles
+#define SOLUTION_CPP_FOLDER_NAME_ID_5465 	number-of-nodes-in-the-sub-tree-with-the-same-label
+#define SOLUTION_CPP_FOLDER_NAME_ID_5466 	maximum-number-of-non-overlapping-substrings
+#define SOLUTION_CPP_FOLDER_NAME_ID_5467 	find-a-value-of-a-mysterious-function-closest-to-target
 #define SOLUTION_CPP_FOLDER_NAME_ID_100263 	happy-new-year-2020-bomb
 #define SOLUTION_CPP_FOLDER_NAME_ID_100264 	how-many-apples-lc
 #define SOLUTION_CPP_FOLDER_NAME_ID_100265 	qqqqqqqqqqqqqqqys-warm-up-question
