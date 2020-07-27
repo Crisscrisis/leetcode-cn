@@ -1,6 +1,7 @@
+## 20200727
+* leetcode 3
 ## 20200715
 * leetcode 11
-*
 ## 20200710
 * leetcode 42
 * leetcode 15
