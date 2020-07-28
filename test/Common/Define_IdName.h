@@ -708,3 +708,6 @@
 
 // bfs
 #define SOLUTION_CPP_LEETCODE_296           296_best_meeting_point
+
+// others
+#define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
