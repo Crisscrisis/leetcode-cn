@@ -714,6 +714,7 @@
 #define SOLUTION_CPP_LEETCODE_136           136_single_number
 #define SOLUTION_CPP_LEETCODE_137           137_single_number_2
 #define SOLUTION_CPP_LEETCODE_645           645_set_mismatch
+#define SOLUTION_CPP_LEETCODE_260           260_single_number_3
 
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
