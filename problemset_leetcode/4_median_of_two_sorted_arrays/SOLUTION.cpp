@@ -83,16 +83,7 @@ double _solution_run(vector<int>& nums1, vector<int>& nums2)
 #ifdef USE_SOLUTION_CUSTOM
 string _solution_custom(TestCases &tc)
 {
-    string list = tc.get<string>();
-    int n = tc.get<int>();
-    ListNode *head = StringToListNode(list);
-    Solution leetcode_19;
-    ListNode *ans = leetcode_19.removeNthFromEnd(head, n);
-    if (ans == nullptr) {
-        return "null";
-    } else {
-        return ListNodeToString(ans);
-    }
+
 }
 #endif
 

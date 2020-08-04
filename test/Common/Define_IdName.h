@@ -711,3 +711,6 @@
 
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
+
+// offer
+#define SOLUTION_CPP_OFFER_56_1             offer_56_1
