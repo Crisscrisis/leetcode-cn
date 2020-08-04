@@ -1,5 +1,6 @@
 ## 20200804
-* leetcode 125
+* leetcode 137
+* leetcode 136
 ## 20200803
 * offer 56_1
 ## 20200728

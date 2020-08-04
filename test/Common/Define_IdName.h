@@ -712,6 +712,7 @@
 // bit manipulation
 #define SOLUTION_CPP_OFFER_56_1             offer_56_1
 #define SOLUTION_CPP_LEETCODE_136           136_single_number
+#define SOLUTION_CPP_LEETCODE_137           137_single_number_2
 
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
