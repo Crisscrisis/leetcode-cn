@@ -709,8 +709,9 @@
 // bfs
 #define SOLUTION_CPP_LEETCODE_296           296_best_meeting_point
 
+// bit manipulation
+#define SOLUTION_CPP_OFFER_56_1             offer_56_1
+#define SOLUTION_CPP_LEETCODE_136           136_single_number
+
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
-
-// offer
-#define SOLUTION_CPP_OFFER_56_1             offer_56_1
