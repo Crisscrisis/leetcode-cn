@@ -1,3 +1,7 @@
+## 20200816
+* leetcode 416
+* leetcode 5
+* leetcode 70
 ## 20200805
 * leetcode 306
 * leetcode 415

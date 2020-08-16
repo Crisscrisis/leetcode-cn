@@ -720,3 +720,11 @@
 
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
+
+// dynamic programming
+#define SOLUTION_CPP_LEETCODE_5             5_longest_palindromic_substring
+#define SOLUTION_CPP_LEETCODE_70            70_climbing_stairs
+#define SOLUTION_CPP_LEETCODE_416           416_partition_equal_subset_sum
+
+// weekly contest
+#define SOLUTION_CPP_CONTEST_200816         200816
