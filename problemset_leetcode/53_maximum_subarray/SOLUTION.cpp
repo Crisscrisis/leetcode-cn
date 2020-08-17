@@ -14,17 +14,15 @@ public:
         if (nums.empty()) {
             return 0;
         }
-        vector<int> dp;
+        vector<int> dp; // dp[i]:the max value of subarray which ends in position of i
         dp.push_back(nums[0]);
+        int max = dp[0];
         for (int i = 1; i < nums.size(); i++) {
             if (dp[i - 1] < 0) {
                 dp.push_back(nums[i]);
             } else {
                 dp.push_back(dp[i - 1] + nums[i]);
             }
-        }
-        int max = dp[0];
-        for (int i = 0; i < nums.size(); i++) {
             if (max < dp[i]) {
                 max = dp[i];
             }
