@@ -723,6 +723,7 @@
 
 // dynamic programming
 #define SOLUTION_CPP_LEETCODE_5             5_longest_palindromic_substring
+#define SOLUTION_CPP_LEETCODE_53            53_maximum_subarray
 #define SOLUTION_CPP_LEETCODE_70            70_climbing_stairs
 #define SOLUTION_CPP_LEETCODE_416           416_partition_equal_subset_sum
 

@@ -1,4 +1,7 @@
+## 20200817
+* leetcode 53
 ## 20200816
+* weekly contest 200817
 * leetcode 416
 * leetcode 5
 * leetcode 70
