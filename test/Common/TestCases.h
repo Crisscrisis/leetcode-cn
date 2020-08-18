@@ -12,6 +12,9 @@ public:
         std::string text;
         while (getline(is, text))
         {
+            if (text.empty() || text.at(0) == '#') {
+                continue;
+            }
             file.push_back(text);
         }
     }
