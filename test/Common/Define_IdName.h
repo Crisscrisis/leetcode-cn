@@ -728,6 +728,7 @@
 #define SOLUTION_CPP_LEETCODE_416           416_partition_equal_subset_sum
 #define SOLUTION_CPP_LEETCODE_300           300_longest_increasing_subsequence
 #define SOLUTION_CPP_LEETCODE_322           322_coin_change
+#define SOLUTION_CPP_LEETCODE_509           509_fibonacci_number
 
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
