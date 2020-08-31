@@ -103,7 +103,7 @@ bool _solution_run(DLinkNode *head)
     return false;
 }
 
-#define USE_SOLUTION_CUSTOM
+#ifdef USE_SOLUTION_CUSTOM
 string _solution_custom(TestCases &tc)
 {
     vector<string> sf = tc.get<vector<string>>();
@@ -133,6 +133,7 @@ string _solution_custom(TestCases &tc)
     delete obj;
 	return convert<string>(ans);
 }
+#endif
 
 /**************************   get testcase   **************************/
 #ifdef USE_GET_TEST_CASES_IN_CPP

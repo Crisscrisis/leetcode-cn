@@ -760,6 +760,7 @@
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
 #define SOLUTION_CPP_LEETCODE_146           146_LRU_Cache
+#define SOLUTION_CPP_LEETCODE_860           860_lemonade_change
 
 // dynamic programming
 #define SOLUTION_CPP_LEETCODE_5             5_longest_palindromic_substring
