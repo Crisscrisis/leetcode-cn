@@ -762,6 +762,9 @@
 #define SOLUTION_CPP_LEETCODE_146           146_LRU_Cache
 #define SOLUTION_CPP_LEETCODE_860           860_lemonade_change
 
+// zero-sum game
+#define SOLUTION_CPP_LEETCODE_486           486_predict_the_winner
+
 // dynamic programming
 #define SOLUTION_CPP_LEETCODE_5             5_longest_palindromic_substring
 #define SOLUTION_CPP_LEETCODE_53            53_maximum_subarray
