@@ -764,6 +764,7 @@
 
 // zero-sum game
 #define SOLUTION_CPP_LEETCODE_486           486_predict_the_winner
+#define SOLUTION_CPP_LEETCODE_292           292_nim_game
 
 // dynamic programming
 #define SOLUTION_CPP_LEETCODE_5             5_longest_palindromic_substring
