@@ -737,6 +737,7 @@
 #define SOLUTION_CPP_LEETCODE_3             3_longest_substring_without_repeating_characters
 #define SOLUTION_CPP_LEETCODE_415           415_add_strings
 #define SOLUTION_CPP_LEETCODE_306           306_additive_number
+#define SOLUTION_CPP_LEETCODE_88            88_merge_sorted_array
 
 // linked list
 #define SOLUTION_CPP_LEETCODE_707           707_design_linked_list
