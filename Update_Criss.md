@@ -1,3 +1,6 @@
+## 20200907
+* leetcode 88
+* leetcode 24
 ## 20200901
 * leetcode 486
 * leetcode 292
