@@ -749,6 +749,7 @@
 #define SOLUTION_CPP_LEETCODE_206           206_reverse_linked_list
 #define SOLUTION_CPP_LEETCODE_2             2_add_two_numbers
 #define SOLUTION_CPP_LEETCODE_24            24_swap_nodes_in_pairs
+#define SOLUTION_CPP_LEETCODE_25            25_swap_nodes_in_k_group
 #define SOLUTION_CPP_LEETCODE_21            21_merge_two_sorted_lists
 
 // bfs
