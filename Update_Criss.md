@@ -1,5 +1,6 @@
 ## 20200908
 * leetcode 1
+* leetcode 20
 * leetcode 21
 * leetcode 25
 ## 20200907

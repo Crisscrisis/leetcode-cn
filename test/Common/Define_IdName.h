@@ -721,23 +721,25 @@
 #define SOLUTION_CPP_LEETCODE_498           498_diagonal_traverse
 #define SOLUTION_CPP_LEETCODE_54            54_spiral_matrix
 #define SOLUTION_CPP_LEETCODE_118           118_pascals_triangle
-#define SOLUTION_CPP_LEETCODE_67            67_add_binary
-#define SOLUTION_CPP_LEETCODE_28            28_implement_strstr
-#define SOLUTION_CPP_LEETCODE_14            14_longest_common_prefix
-#define SOLUTION_CPP_LEETCODE_344           344_reverse_string
 #define SOLUTION_CPP_LEETCODE_561           561_array_partition_1
 #define SOLUTION_CPP_LEETCODE_167           167_two_Sum_2_input_array_is_sorted
 #define SOLUTION_CPP_LEETCODE_27            27_remove_element
 #define SOLUTION_CPP_LEETCODE_485           485_max_consecutive_ones
 #define SOLUTION_CPP_LEETCODE_209           209_minimum_size_subarray_sum
 #define SOLUTION_CPP_LEETCODE_119           119_pascals_triangle_2
-#define SOLUTION_CPP_LEETCODE_151           151_reverse_words_in_a_string
-#define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
 #define SOLUTION_CPP_LEETCODE_4             4_median_of_two_sorted_arrays
 #define SOLUTION_CPP_LEETCODE_42            42_trapping_rain_water
 #define SOLUTION_CPP_LEETCODE_11            11_container_with_most_water
 #define SOLUTION_CPP_LEETCODE_3             3_longest_substring_without_repeating_characters
 #define SOLUTION_CPP_LEETCODE_415           415_add_strings
+
+// string
+#define SOLUTION_CPP_LEETCODE_67            67_add_binary
+#define SOLUTION_CPP_LEETCODE_28            28_implement_strstr
+#define SOLUTION_CPP_LEETCODE_14            14_longest_common_prefix
+#define SOLUTION_CPP_LEETCODE_344           344_reverse_string
+#define SOLUTION_CPP_LEETCODE_151           151_reverse_words_in_a_string
+#define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
 #define SOLUTION_CPP_LEETCODE_306           306_additive_number
 
 // linked list
@@ -751,6 +753,9 @@
 #define SOLUTION_CPP_LEETCODE_24            24_swap_nodes_in_pairs
 #define SOLUTION_CPP_LEETCODE_25            25_swap_nodes_in_k_group
 #define SOLUTION_CPP_LEETCODE_21            21_merge_two_sorted_lists
+
+// stack
+#define SOLUTION_CPP_LEETCODE_20            20_valid_parentheses
 
 // bfs
 #define SOLUTION_CPP_LEETCODE_296           296_best_meeting_point
