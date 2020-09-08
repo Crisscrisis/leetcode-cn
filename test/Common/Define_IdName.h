@@ -709,6 +709,12 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_16 	you-le-yuan-de-you-lan-ji-hua
 
 // string && array
+// array
+#define SOLUTION_CPP_LEETCODE_283           283_move_zeros
+#define SOLUTION_CPP_LEETCODE_15            15_three_sum
+#define SOLUTION_CPP_LEETCODE_26            26_remove_duplicates_from_sorted_array
+#define SOLUTION_CPP_LEETCODE_189           189_rotate_array
+#define SOLUTION_CPP_LEETCODE_88            88_merge_sorted_array
 #define SOLUTION_CPP_LEETCODE_724           724_find_pivot_index
 #define SOLUTION_CPP_LEETCODE_747           747_largest_number_at_least_twice_of_others
 #define SOLUTION_CPP_LEETCODE_66            66_plus_one
@@ -724,20 +730,15 @@
 #define SOLUTION_CPP_LEETCODE_27            27_remove_element
 #define SOLUTION_CPP_LEETCODE_485           485_max_consecutive_ones
 #define SOLUTION_CPP_LEETCODE_209           209_minimum_size_subarray_sum
-#define SOLUTION_CPP_LEETCODE_189           189_rotate_array
 #define SOLUTION_CPP_LEETCODE_119           119_pascals_triangle_2
 #define SOLUTION_CPP_LEETCODE_151           151_reverse_words_in_a_string
 #define SOLUTION_CPP_LEETCODE_557           557_reverse_words_in_a_string_3
-#define SOLUTION_CPP_LEETCODE_26            26_remove_duplicates_from_sorted_array
-#define SOLUTION_CPP_LEETCODE_283           283_move_zeros
 #define SOLUTION_CPP_LEETCODE_4             4_median_of_two_sorted_arrays
-#define SOLUTION_CPP_LEETCODE_15            15_three_sum
 #define SOLUTION_CPP_LEETCODE_42            42_trapping_rain_water
 #define SOLUTION_CPP_LEETCODE_11            11_container_with_most_water
 #define SOLUTION_CPP_LEETCODE_3             3_longest_substring_without_repeating_characters
 #define SOLUTION_CPP_LEETCODE_415           415_add_strings
 #define SOLUTION_CPP_LEETCODE_306           306_additive_number
-#define SOLUTION_CPP_LEETCODE_88            88_merge_sorted_array
 
 // linked list
 #define SOLUTION_CPP_LEETCODE_707           707_design_linked_list
@@ -776,6 +777,9 @@
 #define SOLUTION_CPP_LEETCODE_300           300_longest_increasing_subsequence
 #define SOLUTION_CPP_LEETCODE_322           322_coin_change
 #define SOLUTION_CPP_LEETCODE_509           509_fibonacci_number
+
+// hash map
+#define SOLUTION_CPP_LEETCODE_1             1_two_sum
 
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816

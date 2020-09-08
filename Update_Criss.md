@@ -1,3 +1,5 @@
+## 20200908
+* leetcode 1
 ## 20200907
 * leetcode 88
 * leetcode 24
