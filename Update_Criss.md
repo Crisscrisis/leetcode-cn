@@ -1,3 +1,5 @@
+## 20200910
+* leetcode 406
 ## 20200908
 * leetcode 1
 * leetcode 20

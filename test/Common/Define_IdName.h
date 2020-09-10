@@ -732,6 +732,7 @@
 #define SOLUTION_CPP_LEETCODE_11            11_container_with_most_water
 #define SOLUTION_CPP_LEETCODE_3             3_longest_substring_without_repeating_characters
 #define SOLUTION_CPP_LEETCODE_415           415_add_strings
+#define SOLUTION_CPP_LEETCODE_406           406_queue_reconstruction_by_height
 
 // string
 #define SOLUTION_CPP_LEETCODE_67            67_add_binary
