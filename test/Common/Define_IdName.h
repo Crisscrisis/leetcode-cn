@@ -760,6 +760,7 @@
 
 // bfs
 #define SOLUTION_CPP_LEETCODE_296           296_best_meeting_point
+#define SOLUTION_CPP_LEETCODE_111           111_minimum_depth_of_binary_tree
 
 // bit manipulation
 #define SOLUTION_CPP_OFFER_56_1             offer_56_1
