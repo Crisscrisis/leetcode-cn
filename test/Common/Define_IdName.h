@@ -789,5 +789,8 @@
 // hash map
 #define SOLUTION_CPP_LEETCODE_1             1_two_sum
 
+// recursion
+#define SOLUTION_CPP_LEETCODE_22            22_generate_parentheses
+
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
