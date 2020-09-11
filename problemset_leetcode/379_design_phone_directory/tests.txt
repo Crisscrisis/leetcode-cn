@@ -1,0 +1,3 @@
+["PhoneDirectory","get","get","check","get","check","release","check"]
+[[3],[],[],[2],[],[2],[2],[2]]
+[null,0,1,1,2,0,null,1]

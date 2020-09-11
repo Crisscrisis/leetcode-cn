@@ -1,5 +1,6 @@
 ## 20200911
 * leetcode 22
+* leetcode 379
 ## 20200910
 * leetcode 406
 ## 20200908

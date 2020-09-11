@@ -770,7 +770,6 @@
 
 // others
 #define SOLUTION_CPP_LEETCODE_125           125_valid_palindrome
-#define SOLUTION_CPP_LEETCODE_146           146_LRU_Cache
 #define SOLUTION_CPP_LEETCODE_860           860_lemonade_change
 
 // zero-sum game
@@ -791,6 +790,10 @@
 
 // recursion
 #define SOLUTION_CPP_LEETCODE_22            22_generate_parentheses
+
+// design
+#define SOLUTION_CPP_LEETCODE_146           146_LRU_Cache
+#define SOLUTION_CPP_LEETCODE_379           379_design_phone_directory
 
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
