@@ -796,5 +796,8 @@
 #define SOLUTION_CPP_LEETCODE_146           146_LRU_Cache
 #define SOLUTION_CPP_LEETCODE_379           379_design_phone_directory
 
+// monotone stack
+#define SOLUTION_CPP_LEETCODE_121           121_best_time_to_buy_and_dell_stock
+
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
