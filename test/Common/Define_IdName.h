@@ -799,5 +799,8 @@
 // monotone stack
 #define SOLUTION_CPP_LEETCODE_121           121_best_time_to_buy_and_dell_stock
 
+// math
+#define SOLUTION_CPP_OFFER_62               offer_62
+
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
