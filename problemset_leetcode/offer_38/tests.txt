@@ -1,0 +1,4 @@
+abc
+["abc","acb","bac","bca","cab","cba"]
+aab
+["aba","baa","aab"]
