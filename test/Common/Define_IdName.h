@@ -809,6 +809,7 @@
 // leetcode 46, 47, 39, 40, 77, 78, 90, 60, 93, offer 38
 #define SOLUTION_CPP_OFFER_38               offer_38
 #define SOLUTION_CPP_LEETCODE_46            46_permutations
+#define SOLUTION_CPP_LEETCODE_47            47_permutations_2
 
 
 // weekly contest

@@ -1,3 +1,12 @@
+## 20200921
+* leetcode 404
+* leetcode 38
+* leetcode 46
+* leetcode 47
+## 20200919
+* leetcode 62
+## 20200918
+* leetcode 121
 ## 20200911
 * leetcode 22
 * leetcode 379
