@@ -802,5 +802,8 @@
 // math
 #define SOLUTION_CPP_OFFER_62               offer_62
 
+// tree
+#define SOLUTION_CPP_LEETCODE_404           404_sum_of_left_leaves
+
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
