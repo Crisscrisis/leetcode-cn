@@ -812,6 +812,7 @@
 #define SOLUTION_CPP_LEETCODE_46            46_permutations
 #define SOLUTION_CPP_LEETCODE_47            47_permutations_2
 #define SOLUTION_CPP_LEETCODE_39            39_combination_sum
+#define SOLUTION_CPP_LEETCODE_40            40_combination_sum_2
 
 
 // weekly contest
