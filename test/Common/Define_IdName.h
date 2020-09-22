@@ -811,6 +811,7 @@
 #define SOLUTION_CPP_OFFER_38               offer_38
 #define SOLUTION_CPP_LEETCODE_46            46_permutations
 #define SOLUTION_CPP_LEETCODE_47            47_permutations_2
+#define SOLUTION_CPP_LEETCODE_39            39_combination_sum
 
 
 // weekly contest
