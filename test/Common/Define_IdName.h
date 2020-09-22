@@ -814,6 +814,7 @@
 #define SOLUTION_CPP_LEETCODE_39            39_combination_sum
 #define SOLUTION_CPP_LEETCODE_40            40_combination_sum_2
 #define SOLUTION_CPP_LEETCODE_77            77_combinations
+#define SOLUTION_CPP_LEETCODE_78            78_subsets
 
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
