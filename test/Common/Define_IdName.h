@@ -754,6 +754,7 @@
 #define SOLUTION_CPP_LEETCODE_24            24_swap_nodes_in_pairs
 #define SOLUTION_CPP_LEETCODE_25            25_swap_nodes_in_k_group
 #define SOLUTION_CPP_LEETCODE_21            21_merge_two_sorted_lists
+#define SOLUTION_CPP_OFFER_24               offer_24
 
 // stack
 #define SOLUTION_CPP_LEETCODE_20            20_valid_parentheses
