@@ -2,6 +2,7 @@
 * offer 24
 * leetcode 39
 * leetcode 40
+* leetcode 77
 ## 20200921
 * leetcode 404
 * offer 38
