@@ -254,6 +254,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_395 	longest-substring-with-at-least-k-repeating-characters
 #define SOLUTION_CPP_FOLDER_NAME_ID_399 	evaluate-division
 #define SOLUTION_CPP_FOLDER_NAME_ID_401 	binary-watch
+#define SOLUTION_CPP_FOLDER_NAME_ID_404 	sum-of-left-leaves
 #define SOLUTION_CPP_FOLDER_NAME_ID_406 	queue-reconstruction-by-height
 #define SOLUTION_CPP_FOLDER_NAME_ID_409 	longest-palindrome
 #define SOLUTION_CPP_FOLDER_NAME_ID_410 	split-array-largest-sum
@@ -276,6 +277,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_473 	matchsticks-to-square
 #define SOLUTION_CPP_FOLDER_NAME_ID_475 	heaters
 #define SOLUTION_CPP_FOLDER_NAME_ID_481 	magical-string
+#define SOLUTION_CPP_FOLDER_NAME_ID_486 	predict-the-winner
 #define SOLUTION_CPP_FOLDER_NAME_ID_488 	zuma-game
 #define SOLUTION_CPP_FOLDER_NAME_ID_450 	delete-node-in-a-bst
 #define SOLUTION_CPP_FOLDER_NAME_ID_451 	sort-characters-by-frequency
@@ -297,6 +299,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_520 	detect-capital
 #define SOLUTION_CPP_FOLDER_NAME_ID_521 	longest-uncommon-subsequence-i
 #define SOLUTION_CPP_FOLDER_NAME_ID_529 	minesweeper
+#define SOLUTION_CPP_FOLDER_NAME_ID_538 	convert-bst-to-greater-tree
 #define SOLUTION_CPP_FOLDER_NAME_ID_541 	reverse-string-ii
 #define SOLUTION_CPP_FOLDER_NAME_ID_541 	reverse-string-ii
 #define SOLUTION_CPP_FOLDER_NAME_ID_542 	01-matrix
@@ -320,6 +323,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_617 	merge-two-binary-trees
 #define SOLUTION_CPP_FOLDER_NAME_ID_621 	task-scheduler
 #define SOLUTION_CPP_FOLDER_NAME_ID_622 	design-circular-queue
+#define SOLUTION_CPP_FOLDER_NAME_ID_637 	average-of-levels-in-binary-tree
 #define SOLUTION_CPP_FOLDER_NAME_ID_641 	design-circular-deque
 #define SOLUTION_CPP_FOLDER_NAME_ID_647 	palindromic-substrings
 #define SOLUTION_CPP_FOLDER_NAME_ID_648 	replace-words
@@ -330,6 +334,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_674 	longest-continuous-increasing-subsequence
 #define SOLUTION_CPP_FOLDER_NAME_ID_677 	map-sum-pairs
 #define SOLUTION_CPP_FOLDER_NAME_ID_680 	valid-palindrome-ii
+#define SOLUTION_CPP_FOLDER_NAME_ID_684 	redundant-connection
 #define SOLUTION_CPP_FOLDER_NAME_ID_687 	longest-univalue-path
 #define SOLUTION_CPP_FOLDER_NAME_ID_690 	employee-importance
 #define SOLUTION_CPP_FOLDER_NAME_ID_693 	binary-number-with-alternating-bits
@@ -389,6 +394,7 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_1025 	divisor-game
 #define SOLUTION_CPP_FOLDER_NAME_ID_1028 	recover-a-tree-from-preorder-traversal
 #define SOLUTION_CPP_FOLDER_NAME_ID_1037 	valid-boomerang
+#define SOLUTION_CPP_FOLDER_NAME_ID_1038 	binary-search-tree-to-greater-sum-tree
 #define SOLUTION_CPP_FOLDER_NAME_ID_1071 	greatest-common-divisor-of-strings
 #define SOLUTION_CPP_FOLDER_NAME_ID_1095 	find-in-mountain-array
 #define SOLUTION_CPP_FOLDER_NAME_ID_1103 	distribute-candies-to-people
@@ -671,18 +677,42 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_1545 	find-kth-bit-in-nth-binary-string
 #define SOLUTION_CPP_FOLDER_NAME_ID_1542 	find-longest-awesome-substring
 #define SOLUTION_CPP_FOLDER_NAME_ID_1547 	minimum-cost-to-cut-a-stick
-#define SOLUTION_CPP_FOLDER_NAME_ID_5185 	three-consecutive-odds
-#define SOLUTION_CPP_FOLDER_NAME_ID_5479 	thousand-separator
-#define SOLUTION_CPP_FOLDER_NAME_ID_5480 	minimum-number-of-vertices-to-reach-all-nodes
-#define SOLUTION_CPP_FOLDER_NAME_ID_5481 	minimum-numbers-of-function-calls-to-make-target-array
-#define SOLUTION_CPP_FOLDER_NAME_ID_5482 	detect-cycles-in-2d-grid
-#define SOLUTION_CPP_FOLDER_NAME_ID_5488 	minimum-operations-to-make-array-equal
-#define SOLUTION_CPP_FOLDER_NAME_ID_5489 	magnetic-force-between-two-balls
-#define SOLUTION_CPP_FOLDER_NAME_ID_5490 	minimum-number-of-days-to-eat-n-oranges
-#define SOLUTION_CPP_FOLDER_NAME_ID_5495 	most-visited-sector-in-a-circular-track
-#define SOLUTION_CPP_FOLDER_NAME_ID_5496 	maximum-number-of-coins-you-can-get
-#define SOLUTION_CPP_FOLDER_NAME_ID_5497 	find-latest-group-of-size-m
-#define SOLUTION_CPP_FOLDER_NAME_ID_5498 	stone-game-v
+#define SOLUTION_CPP_FOLDER_NAME_ID_1572 	matrix-diagonal-sum
+#define SOLUTION_CPP_FOLDER_NAME_ID_1573 	number-of-ways-to-split-a-string
+#define SOLUTION_CPP_FOLDER_NAME_ID_1574 	shortest-subarray-to-be-removed-to-make-array-sorted
+#define SOLUTION_CPP_FOLDER_NAME_ID_1575 	count-all-possible-routes
+#define SOLUTION_CPP_FOLDER_NAME_ID_1576 	replace-all-s-to-avoid-consecutive-repeating-characters
+#define SOLUTION_CPP_FOLDER_NAME_ID_1577 	number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers
+#define SOLUTION_CPP_FOLDER_NAME_ID_1578 	minimum-deletion-cost-to-avoid-repeating-letters
+#define SOLUTION_CPP_FOLDER_NAME_ID_1579 	remove-max-number-of-edges-to-keep-graph-fully-traversable
+#define SOLUTION_CPP_FOLDER_NAME_ID_1550 	three-consecutive-odds
+#define SOLUTION_CPP_FOLDER_NAME_ID_1556 	thousand-separator
+#define SOLUTION_CPP_FOLDER_NAME_ID_1557 	minimum-number-of-vertices-to-reach-all-nodes
+#define SOLUTION_CPP_FOLDER_NAME_ID_1558 	minimum-numbers-of-function-calls-to-make-target-array
+#define SOLUTION_CPP_FOLDER_NAME_ID_1559 	detect-cycles-in-2d-grid
+#define SOLUTION_CPP_FOLDER_NAME_ID_1551 	minimum-operations-to-make-array-equal
+#define SOLUTION_CPP_FOLDER_NAME_ID_1552 	magnetic-force-between-two-balls
+#define SOLUTION_CPP_FOLDER_NAME_ID_1553 	minimum-number-of-days-to-eat-n-oranges
+#define SOLUTION_CPP_FOLDER_NAME_ID_1560 	most-visited-sector-in-a-circular-track
+#define SOLUTION_CPP_FOLDER_NAME_ID_1561 	maximum-number-of-coins-you-can-get
+#define SOLUTION_CPP_FOLDER_NAME_ID_1562 	find-latest-group-of-size-m
+#define SOLUTION_CPP_FOLDER_NAME_ID_1563 	stone-game-v
+#define SOLUTION_CPP_FOLDER_NAME_ID_1566 	detect-pattern-of-length-m-repeated-k-or-more-times
+#define SOLUTION_CPP_FOLDER_NAME_ID_1567 	maximum-length-of-subarray-with-positive-product
+#define SOLUTION_CPP_FOLDER_NAME_ID_1568 	minimum-number-of-days-to-disconnect-island
+#define SOLUTION_CPP_FOLDER_NAME_ID_1569 	number-of-ways-to-reorder-array-to-get-same-bst
+#define SOLUTION_CPP_FOLDER_NAME_ID_1582 	special-positions-in-a-binary-matrix
+#define SOLUTION_CPP_FOLDER_NAME_ID_1583 	count-unhappy-friends
+#define SOLUTION_CPP_FOLDER_NAME_ID_1584 	min-cost-to-connect-all-points
+#define SOLUTION_CPP_FOLDER_NAME_ID_1585 	check-if-string-is-transformable-with-substring-sort-operations
+#define SOLUTION_CPP_FOLDER_NAME_ID_5503 	sum-of-all-odd-length-subarrays
+#define SOLUTION_CPP_FOLDER_NAME_ID_5504 	make-sum-divisible-by-p
+#define SOLUTION_CPP_FOLDER_NAME_ID_5505 	maximum-sum-obtained-of-any-permutation
+#define SOLUTION_CPP_FOLDER_NAME_ID_5506 	strange-printer-ii
+#define SOLUTION_CPP_FOLDER_NAME_ID_5519 	rearrange-spaces-between-words
+#define SOLUTION_CPP_FOLDER_NAME_ID_5520 	split-a-string-into-the-max-number-of-unique-substrings
+#define SOLUTION_CPP_FOLDER_NAME_ID_5521 	maximum-non-negative-product-in-a-matrix
+#define SOLUTION_CPP_FOLDER_NAME_ID_5522 	minimum-cost-to-connect-two-groups-of-points
 #define SOLUTION_CPP_FOLDER_NAME_ID_100263 	happy-new-year-2020-bomb
 #define SOLUTION_CPP_FOLDER_NAME_ID_100264 	how-many-apples-lc
 #define SOLUTION_CPP_FOLDER_NAME_ID_100265 	qqqqqqqqqqqqqqqys-warm-up-question
@@ -707,6 +737,19 @@
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_14 	qie-fen-shu-zu
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_15 	you-le-yuan-de-mi-gong
 #define SOLUTION_CPP_FOLDER_NAME_ID_LCP_16 	you-le-yuan-de-you-lan-ji-hua
+
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_17 	nGK0Fy
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_18 	2vYnGI
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_19 	UlBDOe
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_20 	meChtZ
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_21 	Za25hA
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_22 	ccw6C7
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_23 	er94lq
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_24 	5TxKeK
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_25 	Uh984O
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_26 	hSRGyL
+#define SOLUTION_CPP_FOLDER_NAME_ID_LCP_27 	IQvJ9i
+
 
 // string && array
 // array

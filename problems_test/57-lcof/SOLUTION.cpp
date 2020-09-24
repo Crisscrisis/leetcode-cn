@@ -2,37 +2,27 @@
 //////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    vector<vector<int>> findContinuousSequence(int target)
-    {
-        vector<vector<int>> ans;
-        int left = 1;
-        int right = 2;
-        while (right != left && left <= target / 2)
-        {
-            int sum = (left + right) * (right - left + 1) / 2;
-            if (sum == target)
-            {
-                vector<int> temp(right - left + 1, 0);
-                int i = left;
-                generate(temp.begin(), temp.end(), [&i]() { return i++; });
-                ans.push_back(move(temp));
-            }
-            left += (sum > target);
-            right += (sum <= target);
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int i = 0;
+        int j = nums.size() - 1;
+        while (i < j) {
+            if (nums[i] + nums[j] == target) return { nums[i], nums[j] };
+            if (nums[i] + nums[j] < target) i++;
+            if (nums[i] + nums[j] > target) j--;
         }
-        return ans;
+        return {};
     }
 };
 
 //////////////////////////////////////////////////////////////////////////
-vector<vector<int>> _solution_run(int target)
+vector<int> _solution_run(vector<int>& nums, int target)
 {
 	//int caseNo = -1;
 	//static int caseCnt = 0;
 	//if (caseNo != -1 && caseCnt++ != caseNo) return {};
 
 	Solution sln;
-	return sln.findContinuousSequence(target);
+	return sln.twoSum(nums, target);
 }
 
 //#define USE_SOLUTION_CUSTOM

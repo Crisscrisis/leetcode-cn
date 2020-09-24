@@ -53,7 +53,7 @@ using namespace std;
 #else
 
 // 2. 或者选择使用 #指定路径的题目代码#
-#define SOLUTION_CPP_FULL_PATH			"../../problems_test/25-lcof/SOLUTION.cpp"
+#define SOLUTION_CPP_FULL_PATH			"../../problems_test/57-lcof/SOLUTION.cpp"
 
 #endif
 
@@ -99,4 +99,5 @@ int main()
 
 		PerformanceTimer::end();
 	}
+    //system("pause");
 }

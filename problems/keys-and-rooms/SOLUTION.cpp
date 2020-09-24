@@ -1,39 +1,43 @@
 
-void visitRoom(vector<vector<int>>& rooms, int roomId, unordered_set<int>& visited)
-{
-	if (roomId >= rooms.size()) return;
-
-	visited.insert(roomId);
-	for (auto r : rooms[roomId])
-	{
-		if (!visited.count(r))
-		{
-			visitRoom(rooms, r, visited);
-		}
-	}
-}
-
 //////////////////////////////////////////////////////////////////////////
-bool canVisitAllRooms(vector<vector<int>>& rooms)
-{
-	unordered_set<int> visited;
-	visitRoom(rooms, 0, visited);
-	for (int i = 0; i < rooms.size(); i++)
-	{
-		if (!visited.count(i)) return false;
-	}
-	return true;
-}
+class Solution {
+public:
+    bool canVisitAllRooms(vector<vector<int>>& rooms) {
+        vector<bool> vi(rooms.size(), false);
+
+        queue<int> que;
+        que.push(0);
+        vi[0] = true;
+        while (!que.empty()) {
+            auto q = que.front();
+            que.pop();
+
+            for (auto n : rooms[q]) {
+                if (vi[n]) continue;
+                que.push(n);
+                vi[n] = true;
+            }
+        }
+
+        return all_of(vi.begin(), vi.end(), [](bool b) { return b; });
+    }
+};
 
 //////////////////////////////////////////////////////////////////////////
 bool _solution_run(vector<vector<int>>& rooms)
 {
-	return canVisitAllRooms(rooms);
+	//int caseNo = -1;
+	//static int caseCnt = 0;
+	//if (caseNo != -1 && caseCnt++ != caseNo) return {};
+
+	Solution sln;
+	return sln.canVisitAllRooms(rooms);
 }
 
 //#define USE_SOLUTION_CUSTOM
-//bool _solution_custom(TestCases &tc)
+//string _solution_custom(TestCases &tc)
 //{
+//	return {};
 //}
 
 //////////////////////////////////////////////////////////////////////////
@@ -42,4 +46,3 @@ bool _solution_run(vector<vector<int>>& rooms)
 //{
 //	return {};
 //}
-
