@@ -1,0 +1,23 @@
+# use # to comment, each time, get 1 line as input param 1, input param 2,..., output
+# for string/char value, no need to add ""/''
+
+# testcase 1
+# input param 1
+[[0,0,0],[0,1,0],[0,0,0]]
+# output
+2
+
+# testcase 2
+# input param 1
+[[0,0,0],[0,1,1],[0,0,0]]
+# output
+1
+
+# testcase 3
+# input param 1
+[[0,0,0],[0,1,1],[0,1,0]]
+# output
+0
+
+[[0,0,0,0,0],[0,0,0,0,1],[0,0,0,1,0],[0,0,1,0,0]]
+0
