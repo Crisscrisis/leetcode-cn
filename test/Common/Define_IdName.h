@@ -831,6 +831,7 @@
 #define SOLUTION_CPP_LEETCODE_509           509_fibonacci_number
 #define SOLUTION_CPP_LEETCODE_62            62_unique_paths
 #define SOLUTION_CPP_LEETCODE_63            63_unique_paths_2
+#define SOLUTION_CPP_LEETCODE_64            64_minimum_path_sum
 
 // hash map
 #define SOLUTION_CPP_LEETCODE_1             1_two_sum
