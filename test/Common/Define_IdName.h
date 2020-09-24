@@ -829,6 +829,7 @@
 #define SOLUTION_CPP_LEETCODE_300           300_longest_increasing_subsequence
 #define SOLUTION_CPP_LEETCODE_322           322_coin_change
 #define SOLUTION_CPP_LEETCODE_509           509_fibonacci_number
+#define SOLUTION_CPP_LEETCODE_62            62_unique_paths
 
 // hash map
 #define SOLUTION_CPP_LEETCODE_1             1_two_sum

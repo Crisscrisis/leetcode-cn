@@ -1,3 +1,5 @@
+## 20200924
+* leetcode 62
 ## 20200922
 * offer 24
 * leetcode 39
