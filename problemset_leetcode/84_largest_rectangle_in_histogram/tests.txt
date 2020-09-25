@@ -1,0 +1,13 @@
+# use # to comment, each time, get 1 line as input param 1, input param 2,..., output
+# for string/char value, no need to add ""/''
+# testcase 1
+# input param 1
+[2,1,5,6,2,3]
+# output
+10
+
+# testcase 2
+# input param 1
+[1,2,3]
+# output
+4

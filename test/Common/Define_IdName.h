@@ -845,6 +845,7 @@
 
 // monotone stack
 #define SOLUTION_CPP_LEETCODE_121           121_best_time_to_buy_and_dell_stock
+#define SOLUTION_CPP_LEETCODE_84            84_largest_rectangle_in_histogram
 
 // math
 #define SOLUTION_CPP_OFFER_62               offer_62
@@ -865,3 +866,4 @@
 
 // weekly contest
 #define SOLUTION_CPP_CONTEST_200816         200816
+#define EXAM_0926                           exam_0926
